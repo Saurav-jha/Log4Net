@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E92712BA-C097-4BCB-ABFD-EBB8880BA001}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Log4Net.ConsoleApp/LogUtility.cs">
+    <Files>
+      <File FileName="Log4Net.ConsoleApp/Program.cs" Line="25" Column="1" />
+      <File FileName="Log4Net.ConsoleApp/app.config" Line="18" Column="31" />
+      <File FileName="Log4Net.ConsoleApp/Logger.cs" Line="39" Column="1" />
+      <File FileName="Log4Net.ConsoleApp/LogUtility.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Log4Net" expanded="True">
+            <Node name="Log4Net.ConsoleApp" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="LogUtility.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Log4Net.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
